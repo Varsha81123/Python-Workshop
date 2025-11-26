@@ -1,0 +1,64 @@
+age=22
+print(age)
+print(type(age))
+
+PN=9535385775
+print(PN)
+print(type(PN))
+
+avg=85.34
+print(avg)
+print(type(avg))
+
+DMV=25
+BDA=24
+SMA=24
+print("DMV:",DMV,"BDA:",BDA,"SMA:",SMA)
+
+Product_1="Projector"
+Price=6990
+isAvailable=True
+print(f"Product name is:{Product_1} Price:{Price} Is product avilable? {isAvailable}")
+
+Product_2="Monitors"
+Price=6590
+isAvailable=True
+print(f"Product name is:{Product_2} Price:{Price} Is product avilable? {isAvailable}")
+
+Product_3="Printers"
+Price=2336
+isAvailable=False
+print(f"Product name is:{Product_3} Price:{Price} Is product avilable? {isAvailable}")
+
+Product_4="TV units"
+Price=1249
+isAvailable=False
+print(f"Product name is:{Product_4} Price:{Price}Is product avilable? {isAvailable}")
+
+Product_5="Sofa seat"
+Price=21999
+isAvailable=True
+print(f"Product name is:{Product_5} Price:{Price}Is product avilable? {isAvailable}")
+
+exp=1+2j
+print(exp)
+print(type(exp))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

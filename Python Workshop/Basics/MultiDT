@@ -1,0 +1,6 @@
+statement1='VBS'
+statement2="Hello guys I'm varsha"
+statement3='''A paragraph is a distinct section of writing, typically
+consisting of several sentences, that focuses on a single idea or topic. It is used to organize text and is usually marked by an indentation or a new line. A well-structured paragraph often includes a topic sentence
+, supporting sentences with details, and a concluding sentence that transitions to the next idea.'''
+print(statement1,statement2,statement3)

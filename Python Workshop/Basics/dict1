@@ -1,0 +1,27 @@
+student_marks = {
+    "A": 85,
+    "B": 90,
+    "C": 78,
+    "D": 88,
+    "E": 92,
+    "F": 75,
+    "G": 80,
+    "H": 95,
+    "I": 70,
+    "J": 65
+}
+print("Original Dictionary:", student_marks)
+
+print(student_marks)
+print(type(student_marks))
+
+student_marks["A"]=95
+print(student_marks)
+print(student_marks.keys())
+print(student_marks.values())
+
+print(student_marks.update(J="70"))
+print(student_marks)
+
+
+

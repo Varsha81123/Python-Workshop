@@ -1,0 +1,9 @@
+items = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
+print("Original Set:", items)
+items.add(110)
+print("After add(110):", items)
+items.remove(40)
+print("After remove(40):", items)
+popped_item = items.pop()
+print("After pop():", items)
+print("Popped item:", popped_item)
